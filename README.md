@@ -1,3 +1,5 @@
+Cloneg from https://github.com/pducharme/UniFi-Video-Controller.git to support old AirCam
+
 # unifi-video-controller
 
 This docker image runs the unifi-video controller on Ubuntu. Originally intended for Unraid 6.x, it should run fine anywhere.
